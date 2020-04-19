@@ -217,9 +217,10 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git rebase main/master`
 
-`git push --force`
+`git push origin master --force`
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[01. More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[02. More about this](https://medium.com/@topspinj/how-to-git-rebase-into-a-forked-repo-c9f05e821c8a)
 
 
 ## Don't feel you aren't smart enough
