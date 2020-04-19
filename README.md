@@ -205,7 +205,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add main https://github.com/jwasham/coding-interview-university`
 
 `git fetch --all`
 
@@ -215,7 +215,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git commit -m "Marked x"`
 
-`git rebase jwasham/master`
+`git rebase main/master`
 
 `git push --force`
 
